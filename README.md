@@ -17,8 +17,8 @@ url: https://gitee.com/api/v5/repos/gdutday/gdut-lib/git/trees/master
 返回值: 
 ```json
 {
-	"sha":"key"
-	"url":"url"
+	"sha":"key",
+	"url":"url",
 	"tree":[
 		{
 			"path":"数据结构",
